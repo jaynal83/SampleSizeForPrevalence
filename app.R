@@ -9,10 +9,10 @@
 
 library(shiny)
 library(shinydashboard)
-library(readr)
-library(ggplot2)
-library(plotly)
-library(purrr)
+#library(readr)
+#library(ggplot2)
+#library(plotly)
+#library(purrr)
 
 
 jsCode = 'shinyjs.clear_warning = function(){document.getElementById("note_save_confirm").innerHTML = "";}'
